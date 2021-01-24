@@ -30,9 +30,9 @@ request.send(null)
 
 
 // infelizmente mesmo com os códigos abertos dos companheiros eu não consegui desenvolver além disso
-// não consegui entender bem como os códigos funcionam o que me impediu de prosseguir no desafio e.. 
-// ..não quis apenas  copiar e colar de outras pessoas sem entender o que eu estava fazendo, não seria justo com meus colegas e com a empresa
-// peço desculpas por não ter conseguido entregar o que pediram. 
+// me esforcei e procurei dar o melhor porém não consegui entender bem como os códigos funcionam o que me impediu de prosseguir no desafio, eu não quis apenas copiar e colar os códigos ...
+// ... dos meus colegas sem entender o que eu estava fazendo e entregar desafio de qualquer jeito, não seria justo com meus amigos e nem com os valores da empresa.
+// por isso peço desculpas por não ter conseguido entregar o que pediram e não obter êxito nesse desafio. 
 
 
 function mostrarQuestao() {
