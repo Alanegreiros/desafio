@@ -29,7 +29,7 @@ request.onreadystatechange = function(){
 request.send(null)
 
 
-// nfelizmente mesmo com os códigos abertos dos companheiros eu não consegui desenvolver além disso
+// infelizmente mesmo com os códigos abertos dos companheiros eu não consegui desenvolver além disso
 // não consegui entender bem como os códigos funcionam o que me impediu de prosseguir no desafio e.. 
 // ..não quis apenas  copiar e colar de outras pessoas sem entender o que eu estava fazendo, não seria justo com meus colegas e com a empresa
 // peço desculpas por não ter conseguido entregar o que pediram. 
